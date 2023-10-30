@@ -12,4 +12,4 @@ How it works:
 4. You should be able to spawn a shell on your target machine
 5. pls do this using a sandbox 💀
 
-Note: The netcat will run and listen only one time each time you run the executable. To re-enable Netcat to listen for incoming connections, simply execute the executable once more.
+Note: The netcat will run and listen only one time each time you run the executable. To re-enable Netcat to listen for incoming connections, simply run the executable once more.
