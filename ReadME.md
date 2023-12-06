@@ -11,6 +11,6 @@ How it works:
 3. Try "nc [your-windows-IP] 1234" on another machine (i.e. Kali Linux)
 4. You should be able to spawn a shell on your target machine
 
-(Only works for machines on the same local network)
+(Only works for machines on the same local network. Its a mini POC/passion project I wanted to try)
 
 Note: The netcat will run and listen only one time each time you run the executable. To re-enable Netcat to listen for incoming connections, simply run the executable once more.
