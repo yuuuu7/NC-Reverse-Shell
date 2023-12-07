@@ -21,6 +21,6 @@ How I plan to improve on this project further:
 
 Making it Opsec-safer:
 1. Remove the use of VBScript
-2. Make my python script run Netcat on its own
+2. Make python script run Netcat on its own
 
 <--- Work in Progress --->
