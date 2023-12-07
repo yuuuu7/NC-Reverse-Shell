@@ -11,6 +11,16 @@ How it works:
 3. Try "nc [your-windows-IP] 1234" on another machine (i.e. Kali Linux)
 4. You should be able to spawn a shell on your target machine
 
-(Only works for machines on the same local network. Its a mini POC/passion project I wanted to try)
+(Its a mini POC/passion project I wanted to try)
 
 Note: The netcat will run and listen only one time each time you run the executable. To re-enable Netcat to listen for incoming connections, simply run the executable once more.
+
+<--- Work in Progress --->
+
+How I plan to improve on this project further:
+
+Making it Opsec-safer:
+1. Remove the use of VBScript
+2. Make my python script run Netcat on its own
+
+<--- Work in Progress --->
